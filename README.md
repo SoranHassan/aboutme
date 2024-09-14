@@ -1,6 +1,10 @@
 <img src='https://media.licdn.com/dms/image/v2/D4D16AQHrEo8aB7EGWg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702805998523?e=1731542400&v=beta&t=GPaKsf_nGeiN7-ycE0BVotbEc3ou3f4s8-4W9EjP2vk'>
 <h1> Backend Developer </h1>
-<p> Hi There<br> my name is soran <br> if you like my profile star me</p>
+<p><b>
+   Hello my name is soran from iran<br>
+i started django since 1 years ago and writing telegram bot since 1 years ago.
+</b>
+</p>
 <div>
   <h2>Skill's</h2>
   <h3>Language's</h3>
