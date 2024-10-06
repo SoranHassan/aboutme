@@ -10,7 +10,7 @@ i started django since 1 years ago and writing telegram bot since 1 years ago.
   <h3>Language's</h3>
   <img src='https://skillicons.dev/icons?i=py,html' alt='languages'>
   <h3>Framework's</h3>
-  <img src='https://skillicons.dev/icons?i=django,selenium' alt='frameworks'>
+  <img src='https://skillicons.dev/icons?i=django,selenium,opencv,qt,rabbitmq' alt='frameworks'>
   <h3>Other Skill's</h3>
   <img src='https://skillicons.dev/icons?i=ps,pr' alt='other'>
 </div>
