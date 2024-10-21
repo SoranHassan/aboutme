@@ -12,7 +12,7 @@ i started django since 1 years ago and writing telegram bot since 1 years ago.
   <h3>Framework & Library</h3>
   <img src='https://skillicons.dev/icons?i=django,selenium,opencv,qt,rabbitmq' alt='frameworks'>
   <h3>Other Skill's</h3>
-  <img src='https://skillicons.dev/icons?i=ps,pr' alt='other'>
+  <img src='https://skillicons.dev/icons?i=ps,pr,wordpress' alt='other'>
 </div>
 <div>
   <h2>Social Media</h2>
