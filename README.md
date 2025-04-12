@@ -1,4 +1,4 @@
-<h1> Python Developer </h1>
+<h1> Python instructor </h1>
 <p><b>
    
 </b>
