@@ -21,6 +21,6 @@
 <div>
   <h2>Social Media</h2>
   <a href='https://instagram.com/soran.py'><img src='https://skillicons.dev/icons?i=instagram' alt='instagram'></a>
-  <a href='https://linkedin.com/soranhassan'><img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin'></a>
+  <a href='https://linkedin.com/in/soranhassan'><img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin'></a>
   <a href='https:soran.hassan21@gmail.com'><img src='https://skillicons.dev/icons?i=gmail' alt='gmail'></a>
 </div>
